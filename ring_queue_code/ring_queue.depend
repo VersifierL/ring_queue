@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592982046 source:c:\users\yy\desktop\ring_queue\ring_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ring_queue.h"
+
+1592981557 c:\users\yy\desktop\ring_queue\ring_queue\ring_queue.h
+
+1592982266 source:c:\users\yy\desktop\ring_queue\ring_queue\ring_queue.c
+	"ring_queue.h"
+	"stdio.h"
+
